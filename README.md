@@ -1,4 +1,4 @@
-# Wildfire Impact on Radiation Distribution
+# Radioactive Wildfires: Wildfire Impact on Radiation Distribution
 
 Team research project for NASA Space Apps Challenge 2017
 
@@ -7,7 +7,6 @@ Team: Triastsia materi
 Moto: 0010 1000 1100
 
 ---
-
 What we know:
   - java
   - .net (c#, js)
@@ -23,7 +22,7 @@ MVP:
 
 What we need:
  - Presentation (slides)
- - SOme kind of working application
+ - Some kind of working application
 
 - github for resource sharing
 - data
@@ -43,6 +42,16 @@ What we need:
 Presentation:
  - Do slides!
  - Speak with others to explain idea!
- - Express idea
+ - Express idea in few lines
  - Notes:
     - Model for forest fire & meadow fire are different!
+
+Issues to fix:
+  - WARNING: The installed widget Javascript is the wrong version.
+
+
+DATA:
+ - http://chornobyl.in.ua/uk/karty-radiacia-ukraina.html
+
+Useful information:
+ - https://allegedlyapparent.wordpress.com/2011/05/19/fukushima-2011-versus-chernobyl-1986-a-fallout-map-comparison/
