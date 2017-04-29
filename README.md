@@ -1,10 +1,10 @@
 # Radioactive Wildfires: Wildfire Impact on Radiation Distribution
 
-Team research project for NASA Space Apps Challenge 2017
+Team research project for [NASA Space Apps Challenge 2017](https://2017.spaceappschallenge.org)
 
-Team: Triastsia materi
+**Team: Triastsia materi**
 
-Moto: 0010 1000 1100
+_Team moto: 0010 1000 1100_
 
 ### Project idea
 
@@ -26,7 +26,6 @@ What we need:
   - model of wildfire movement (based on wind)
   - model of wildfire creating dust (dust movement model)
   - dust movement dependence on weather
-
   - algorythms:
     - radiation-data + fire + wind -> heat map (model)
 
@@ -38,9 +37,11 @@ What we need:
 
 Presentation notes:
   - Model for forest fire & meadow fire are different!
+  - Model is dynamic and depends on time for: fire, wind, humidity, temperature, type of plants, etc.
 
 Issues to fix:
-  - WARNING: The installed widget Javascript is the wrong version.
+  - Warning in Jupyter: The installed widget Javascript is the wrong version.
+  - Script to download latest wildfire data.
 
 Data & Useful information:
  - [Radiation data in Ukraine](http://chornobyl.in.ua/uk/karty-radiacia-ukraina.html)
@@ -50,4 +51,4 @@ Data & Useful information:
  Installation guide:
   - Install Anaconda & Jupyter notebook
   - Instal Gmaps https://github.com/pbugnion/gmaps
-  - Run notebook: wildfire-impact-on-radiation.ipynb
+  - Run notebook: ```wildfire-impact-on-radiation.ipynb```
