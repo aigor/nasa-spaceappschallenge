@@ -1,9 +1,12 @@
 # Wildfire Impact on Radiation Distribution
-## team research project for NASA Space Apps Challenge 2017
+
+Team research project for NASA Space Apps Challenge 2017
 
 Team: Triastsia materi
+
 Moto: 0010 1000 1100
------------------------------------------
+
+---
 
 What we know:
   - java
@@ -20,6 +23,7 @@ MVP:
 
 What we need:
  - Presentation (slides)
+ - SOme kind of working application
 
 - github for resource sharing
 - data
