@@ -25,7 +25,7 @@ Needed solutions:
 - visualization solution for:
   - [+] heat-map over map
   - [+] heat-map of wildfire (last 24 hours)
-  https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/jupyther.png
+  ![Alt text](/slides/jupyther.png)
   
   - heat-map of radiation
   - heat-map of radiation + wildfire based on model model
