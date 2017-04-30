@@ -34,7 +34,7 @@ Convenient information on the threat of the spread of radioactive particles due 
   - heat-map of wildfire (last 24 hours)
   ![Alt text](/slides/map-with-fire.png)
   - heat-map of wildfire & smoke in danger area (last 24 hours)
-  ![Alt text](/slides/map-with-plum-2.png)
+  ![Alt text](/slides/map-with-plum.png)
 
   - heat-map of radiation distribution
   - heat-map of radiation + wildfire based on model model
