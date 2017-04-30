@@ -12,7 +12,7 @@ Convenient information on the threat of the spread of radioactive particles due 
 Needed solutions:
  - data
   - [+/-] radiation data (chornobyl)
-    ![alt text](https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/chornobyl-with-fiers.png)
+    https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/chornobyl-with-fiers.png
 
   - [+] wildfire data (historical)
     - https://www.nasa.gov/press-release/battling-wildfires-from-space-nasa-adds-to-firefighters-toolkit
@@ -25,7 +25,7 @@ Needed solutions:
 - visualization solution for:
   - [+] heat-map over map
   - [+] heat-map of wildfire (last 24 hours)
-  ![alt text](https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/jupyther.png)
+  https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/jupyther.png
   
   - heat-map of radiation
   - heat-map of radiation + wildfire based on model model
