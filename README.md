@@ -5,19 +5,15 @@ Team research project for [NASA Space Apps Challenge 2017](https://2017.spaceapp
 **Team: Triastsia materi**
 
 ### Project idea
+
 Convenient information on the threat of the spread of radioactive particles due to fires in areas contaminated with radionuclides.
 ---
 
-MVP:
- - Map of Chornobyl
- - Visualization of radiation (static of Chornobyl)
- - Visualization of wildfire
- - Visualization of data modeled by radiation + wildfire
- - Visualization in dynamics
-
-What we need:
+Needed solutions:
  - data
   - [+/-] radiation data (chornobyl)
+    ![alt text](https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/chornobyl-with-fiers.png)
+
   - [+] wildfire data (historical)
     - https://www.nasa.gov/press-release/battling-wildfires-from-space-nasa-adds-to-firefighters-toolkit
   - model of wildfire movement (based on wind)
@@ -29,10 +25,12 @@ What we need:
 - visualization solution for:
   - [+] heat-map over map
   - [+] heat-map of wildfire (last 24 hours)
+  ![alt text](https://raw.githubusercontent.com/aigor/nasa-spaceappschallenge/slides/jupyther.png)
+  
   - heat-map of radiation
   - heat-map of radiation + wildfire based on model model
 
-Presentation notes:
+Improvement notes:
   - Model for forest fire & meadow fire are different!
   - Model is dynamic and depends on time for: fire, wind, humidity, temperature, type of plants, etc.
 
