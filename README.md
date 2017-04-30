@@ -49,4 +49,4 @@ Convenient information on the threat of the spread of radioactive particles due 
 ### Issues to fix:
   - Warning in Jupyter: The installed widget Javascript is the wrong version.
   - Script to download latest wildfire data.
-  - Add data processing algorythms for wildfire and smoke.
+  - Add data processing algorythms for wildfire and dust.
