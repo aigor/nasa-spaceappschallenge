@@ -12,7 +12,7 @@ Convenient information on the threat of the spread of radioactive particles due 
 Needed solutions:
  - data
   - [+/-] radiation data (chornobyl)
-    nasa-spaceappschallenge/slides/chornobyl-with-fiers.png
+    ![Alt text](nasa-spaceappschallenge/slides/chornobyl-with-fiers.png)
 
   - [+] wildfire data (historical)
     - https://www.nasa.gov/press-release/battling-wildfires-from-space-nasa-adds-to-firefighters-toolkit
