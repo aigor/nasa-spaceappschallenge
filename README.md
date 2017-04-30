@@ -17,7 +17,7 @@ Convenient information on the threat of the spread of radioactive particles due 
 
 ### Proposed solutions:
   - Available data that allow thread modeling:
-    - soil contamination afrer Chornobyl incident
+    - soil contamination afrer Chornobyl incident (Ceasium-137)
       ![Alt text](/slides/chornobyl-with-fiers.png)
 
     - [wildfire data provided NASA (last 24h, 48h, 7days)](https://www.nasa.gov/press-release/battling-wildfires-from-space-nasa-adds-to-firefighters-toolkit)
