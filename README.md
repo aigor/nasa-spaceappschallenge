@@ -21,8 +21,8 @@ Convenient information on the threat of the spread of radioactive particles due 
       ![Alt text](/slides/chornobyl-with-fiers.png)
 
     - [wildfire data provided NASA (last 24h, 48h, 7days)](https://www.nasa.gov/press-release/battling-wildfires-from-space-nasa-adds-to-firefighters-toolkit)
-    - [Active fire data by NASA](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
-    - [Weather data by NOAA](http://nomads.ncep.noaa.gov/)
+    - [active fire data by NASA](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
+    - [weather data by NOAA](http://nomads.ncep.noaa.gov/)
   - model of wildfire movement (based on wind)
   - model of wildfire creating dust (dust movement model)
   - dust movement dependence on weather
