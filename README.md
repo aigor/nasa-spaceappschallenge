@@ -4,10 +4,9 @@ Team research project for [NASA Space Apps Challenge 2017](https://2017.spaceapp
 
 **Team: Triastsia materi**
 
-_Team moto: 0010 1000 1100_
-
 ### Project idea
-
+Convenient information on the threat of the spread of radioactive particles due to fires in areas contaminated with radionuclides.
+---
 
 MVP:
  - Map of Chornobyl
@@ -17,8 +16,6 @@ MVP:
  - Visualization in dynamics
 
 What we need:
- - Presentation (slides)
- - Some kind of working application
  - data
   - [+/-] radiation data (chornobyl)
   - [+] wildfire data (historical)
