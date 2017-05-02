@@ -51,6 +51,7 @@ Convenient information on the threat of the spread of radioactive particles due 
  - [Active fire data by NASA](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
  - [Weather data by NOAA](http://nomads.ncep.noaa.gov/)
  - [Introduction to Fire Behavior Modeling](https://www.frames.gov/files/8413/4643/5159/Intro_to_Fire_Behavior_Modeling_Guide_2012.06.25.pdf)
+ - [Safecast in Japan](http://safecast.org/tilemap/)
 
 
 ### Issues to fix:
